@@ -1,4 +1,4 @@
-# 📊 QL Data Analytics Project
+# 📊 SQL Data Analytics Project
 
 A comprehensive collection of **SQL scripts** for data exploration, analytics, and reporting.  
 These scripts are designed to help **data analysts, BI professionals, and learners** quickly explore, segment, and analyze data within a relational database.
