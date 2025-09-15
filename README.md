@@ -44,5 +44,9 @@ This project is my **first personal SQL project**, part of my journey to explore
 
 A very special thanks goes to **Baraa Khatib Salkini (Data With Baraa)**, whose guidance and support were extremely valuable in developing this project. His insights and tutorials played a **major role** in shaping the scripts and analytical approach.
 
+📍 Location: 6th of October City, Egypt
 
+📧 [Email](youssefyaser561974@gmail.com)
+
+💼 [LinkedIn](https://www.linkedin.com/in/youssef-yasser-26b810316/)
 
