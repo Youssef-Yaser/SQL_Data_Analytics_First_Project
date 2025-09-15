@@ -44,17 +44,6 @@ This project is part of my journey to explore, analyze, and visualize data effic
 
 A very special thanks goes to **Baraa Khatib Salkini (Data With Baraa)**, whose guidance and support were extremely valuable in developing this project. His insights and tutorials played a **major role** in shaping the scripts and analytical approach.
 
----
 
-## ⚙️ Requirements
 
-- SQL Server / PostgreSQL (scripts are ANSI-SQL compatible with minor adjustments)
-- Basic understanding of relational databases
 
----
-
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/ql-data-analytics-project.git
