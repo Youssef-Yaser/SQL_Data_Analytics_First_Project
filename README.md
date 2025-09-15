@@ -39,7 +39,7 @@ This repository contains SQL queries that demonstrate best practices for:
 
 ## 👤 About Me
 
-Hi! I am **[Your Name]**, a data enthusiast passionate about SQL, analytics, and data-driven insights.  
+Hi! I am **Youssef Yaser**, a data enthusiast passionate about SQL, analytics, and data-driven insights.  
 This project is my **first personal SQL project**, part of my journey to explore, analyze, and visualize data efficiently using SQL.  
 
 A very special thanks goes to **Baraa Khatib Salkini (Data With Baraa)**, whose guidance and support were extremely valuable in developing this project. His insights and tutorials played a **major role** in shaping the scripts and analytical approach.
